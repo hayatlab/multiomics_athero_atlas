@@ -5,7 +5,7 @@ To gain further insights in the spatial mechanism of human atherosclerosis we ge
 <center>
   <img src="https://github.com/hayatlab/multiomics_athero_atlas/blob/main/Cover_Atherosclerosis_Atlas.png" width="900">
   <figcaption>Figure 1: UMAP of the main cell types from the human atherosclerosis atlas and the main insights from different spatial niches of the human atery.</figcaption>
-</center>center>
+</center>
 
 <br>
 <br>
